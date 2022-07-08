@@ -1,0 +1,4 @@
+D:\Teachers_record\x64\Debug\Teachers_record.vcxproj.AssemblyReference.cache
+D:\Teachers_record\x64\Debug\Teachers_record.exe
+D:\Visitors_Record_Management\x64\Debug\Teachers_record.vcxproj.AssemblyReference.cache
+D:\Visitors_Record_Management\x64\Debug\Visitor_Record_Management.exe

@@ -1,0 +1,10 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Teachers_record.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  remove.cpp
+D:\Teacher_Record_Management\remove.cpp(63,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Teacher_Record_Management\remove.cpp(86,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Teacher_Record_Management\remove.cpp(53,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Teacher_Record_Management\remove.cpp(221,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Teacher_Record_Management\remove.cpp(225,62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Teacher_Record_Management\remove.cpp(242,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  B+ Tree.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Teachers_record.vcxproj -> D:\Visitors_Record_Management\x64\Debug\Visitor_Record_Management.exe
